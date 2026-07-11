@@ -1,7 +1,6 @@
 const caixa = document.querySelector('#caixa');
 const btnCor = document.querySelector('#btn');
-const btnToggle = document.querySelector('#btn-toggle');
-const textoCaixa = document.querySelector('#texto-caixa');
+
 
 function gerarCorAleatoria() {
     const letras = '0123456789ABCDEF';
